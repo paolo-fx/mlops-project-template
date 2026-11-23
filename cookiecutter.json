@@ -1,0 +1,11 @@
+
+{
+  "project_name": "Salaries Prediction",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "package_name": "{{ cookiecutter.project_slug }}",
+  "author_name": "Paolo",
+  "author_email": "paolo.faux@gmail.com",
+  "python_version": "3.11",
+  "version": "0.1.0",
+  "description": "Reusable MLOps project"
+}
